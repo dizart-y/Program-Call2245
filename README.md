@@ -17,5 +17,6 @@ pkg install ruby
 pip2 install php
 pip2 install mechanize
 git clone
+https://github.com/dizart-y/Program-Call2245
 cd Program-Call2245
 python2 SpamCall.py
